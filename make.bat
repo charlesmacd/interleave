@@ -1,0 +1,1 @@
+@g++ main.cpp -o interleave.exe -Wall -Werror
